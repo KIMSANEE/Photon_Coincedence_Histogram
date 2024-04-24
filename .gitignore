@@ -1,0 +1,12 @@
+*.log
+*.bak
+*.rpt
+*.qws
+*.bmp
+PLLJ_PLLSPE_INFO.txt
+
+output_file/
+greybox_tmp/
+simulation/
+db/
+incremental_db/
